@@ -1,4 +1,4 @@
-#Iterating keys
+#Iterating values
 my_dict = {
     "name": "Owen",
     "age": 32,
